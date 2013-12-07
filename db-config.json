@@ -1,0 +1,14 @@
+{
+	"source" : {
+		"server" : "",
+		"database" : "",
+		"user" : "",
+		"password" : ""
+	},
+	"destination" : {
+		"server" : "",
+		"database" : "",
+		"user" : "",
+		"password" : ""
+	}
+}
